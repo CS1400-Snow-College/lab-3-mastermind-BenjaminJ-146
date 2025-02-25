@@ -1,0 +1,15 @@
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/bin/Debug/net9.0/lab-3-mastermind-BenjaminJ-146
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/bin/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.deps.json
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/bin/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.runtimeconfig.json
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/bin/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.dll
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/bin/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.pdb
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/obj/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/obj/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.AssemblyInfoInputs.cache
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/obj/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.AssemblyInfo.cs
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/obj/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.csproj.CoreCompileInputs.cache
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/obj/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.sourcelink.json
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/obj/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.dll
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/obj/Debug/net9.0/refint/lab-3-mastermind-BenjaminJ-146.dll
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/obj/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.pdb
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/obj/Debug/net9.0/lab-3-mastermind-BenjaminJ-146.genruntimeconfig.cache
+/Users/benjamin.johnson/Desktop/my-code-dir/lab-3-mastermind-BenjaminJ-146/obj/Debug/net9.0/ref/lab-3-mastermind-BenjaminJ-146.dll
