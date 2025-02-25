@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Benjamin Johnson, 2/25, Lab-3
+Console.Clear();
+
