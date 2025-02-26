@@ -30,7 +30,7 @@ for (int i = 0; i < 4; i++)
         }
     }  
 }
-Console.WriteLine(secret); // Written for debugging
+Console.WriteLine($"              Secret word: {secret} (needed for debugging)"); // Written for debugging
 
 // Prompting the User to guess the word - Step #3
 int guessNumber = 0; // Step #4
@@ -44,7 +44,25 @@ do
     {   
         break;
     }
+    // Checking letter positions - Step #5 and Step #6
+    else 
+    {
+        int correctPositions = 0; // Resetting correct Positions
+        int incorrectPostiions = 0; // Resetting incorrect Positions
+        for (int i = 0; i < secret.Length; i++)
+        {
+            if (secret[i] == guess[i]) // Step #5
+            {
+                correctPositions++;
+            }
+            if (secret.Contains(guess[i]) && secret[i] != guess[i]) // Step #6
+            {
+                incorrectPostiions++;
+            }
+        }
+        Console.WriteLine($"    -{correctPositions} letters in the correct positions\n    -{incorrectPostiions} letters in the incorrect positions");
+    }
 }
 while (true);
 
-Console.Write("You won");
+Console.Write("Congratulations, you've won");
