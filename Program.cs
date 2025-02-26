@@ -33,8 +33,7 @@ for (int i = 0; i < 4; i++)
 Console.WriteLine(secret); // Written for debugging
 
 // Prompting the User to guess the word - Step #3
-int guessNumber = 0;
-bool boolean = true;
+int guessNumber = 0; // Step #4
 
 do 
 {
@@ -43,9 +42,9 @@ do
     string? guess = Console.ReadLine();
     if (secret[0] == guess[0] && secret[1] == guess[1] && secret[2] == guess[2] && secret[3] == guess[3])
     {   
-        boolean = false;
+        break;
     }
 }
-while (boolean);
+while (true);
 
 Console.Write("You won");
